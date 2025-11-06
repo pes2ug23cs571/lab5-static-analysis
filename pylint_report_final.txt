@@ -1,0 +1,6 @@
+************* Module inventory_system
+inventory_system.py:72:0: C0301: Line too long (106/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.89/10 (previous run: 9.38/10, +0.51)
+
